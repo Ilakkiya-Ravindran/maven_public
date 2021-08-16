@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="202" started-at="2021-08-06T13:43:49 IST" finished-at="2021-08-06T13:43:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="202" started-at="2021-08-06T13:43:49 IST" finished-at="2021-08-06T13:43:49 IST">
+      <class name="MavenSample.MavenSample.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:MavenSample.MavenSample.AppTest@a67c67e]" name="shouldAnswerWithTrue" duration-ms="18" started-at="2021-08-06T13:43:49 IST" finished-at="2021-08-06T13:43:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- MavenSample.MavenSample.AppTest -->
+      <class name="test.App1Test">
+        <test-method status="PASS" signature="m2()[pri:0, instance:test.App1Test@21213b92]" name="m2" duration-ms="22" started-at="2021-08-06T13:43:49 IST" finished-at="2021-08-06T13:43:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+      </class> <!-- test.App1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
